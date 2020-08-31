@@ -10,7 +10,7 @@ export default class Resume extends Component {
                     <h5>Resume</h5>
                     <h1>More of my credentials.</h1>
                     <p className="lead">I am a student inches away from a Bachelor degree. As I am about to finish my Bachelors I am eyeing for the professional role.<br/>
-                    Adding to my current prospectives, I am an Individual who likes to discover different Cultures,languages and ethnicities. Numbers and Dta-Art grabs my attention. While Mythbusting is my guilty pleasure.</p>
+                    Adding to my current prospectives, I am an Individual who likes to discover different Cultures,languages and ethnicities. Numbers and Data-Art grabs my attention. While Mythbusting is my guilty pleasure.</p>
                 </div>   		
                 </div> {/* /section-intro*/} 
                 <div className="row resume-timeline">
@@ -42,7 +42,7 @@ export default class Resume extends Component {
                         </div>
                         <div className="timeline-content">
                         <h4>Google Adsense</h4>
-                        <p>It was an immense feeling to crack the Google Adsense Analytics Certification. While some can claim the certificates, only a few can claim it with percentage Above 90%. I am in that few. Here I learned to master the cpncepts of SEO and Adsense Algorithm.</p>
+                        <p>It was an immense feeling to crack the Google Adsense Analytics Certification. While some can claim the certificates, only a few can claim it with percentage Above 90%. I am in that few. Here I learned to master the concepts of SEO and Adsense Algorithm.</p>
                         </div>
                     </div> {/* /timeline-block */}
                     <div className="timeline-block">
