@@ -5,6 +5,7 @@ import About from './components/About/About';
 import Resume from './components/Resume/Resume';
 import Portfolio from './components/Portfolio/Portfolio';
 import Servicess from  './components/Servicess/Servicess';
+import Owlcarouse from './components/owlcarouse'
 import Contact from './components/Contact/Contact';
 import Stats from './components/Stats/Stats';
 import Intro from './components/Intro/Intro';
@@ -21,6 +22,7 @@ class App extends Component {
           <Resume />
           <Portfolio />
           <Servicess />
+          <Owlcarouse />
           <Stats/>
           <Contact />
           <Footer />
