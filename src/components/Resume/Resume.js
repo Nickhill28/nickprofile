@@ -77,7 +77,7 @@ export default class Resume extends Component {
                         </div>
                         <div className="timeline-content">
                         <h4>Open Source</h4>
-                        <p>I decided while waiting fir the corporate society to hire me, I should grasp some knowledge about it to provide effective at the J-Job. So, I brainstormed to OpenSource Here I make my own projects. Watch developers on Twitch and Learn from it. Do Collaboration with various other peers and developers. Solve and generate issues. Doing all this I have keenly upscaled my knowledge of the field unknown to me.<br />
+                        <p>I decided while waiting for the corporate society to hire me, I should grasp some knowledge about it to provide effective at the J-Job. So, I brainstormed to OpenSource Here I make my own projects. Watch developers on Twitch and Learn from it. Do Collaboration with various other peers and developers. Solve and generate issues. Doing all this I have keenly upscaled my knowledge of the field unknown to me.<br />
                         <b>upskilled: </b>150%</p>
                         </div>
                     </div> {/* /timeline-block */}
@@ -105,7 +105,7 @@ export default class Resume extends Component {
                         </div>
                         <div className="timeline-content">
                         <h4>Junior College</h4>
-                        <p>Journey fo Junior college gave me the Transitions I needed to guide me to a more structural path than what I was following before. These changes were fast-paced,drastic and were making me more precise about my surrroundings. Though this phase led me to deviate a little from my Academics but it was worth as it shaped me instead to tackle difficulties and pressure with ease.<br/>
+                        <p>Journey of Junior college gave me the Transitions I needed to guide me to a more structural path than what I was following before. These changes were fast-paced,drastic and were making me more precise about my surrroundings. Though this phase led me to deviate a little from my Academics but it was worth as it shaped me instead to tackle difficulties and pressure with ease.<br/>
                         <b>Percentage:</b> 76%  </p>
                         </div>
                         <div className="timeline-content">
