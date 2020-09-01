@@ -13,7 +13,7 @@ export default class About extends Component {
                     <img src="images/profile-pic.jpg" alt="Profile Picture" />
                     <aside class = "pull-quote">
                     <blockquote>
-                    <p className="lead">I am a Results-driven Computer Science student with good technical skills, firm grasp of business needs with crisp
+                    <p className="lead">I am a Results-driven Computer Science student with good technical skills, firm grasp of business needs and crisp
                     understanding of user requirements . My approach includes Assessing risks, troubleshooting problems and conducting tests.
                     Garnered with Impressive communication and planning abilities.</p></blockquote></aside>
                     </div>   			
@@ -22,7 +22,7 @@ export default class About extends Component {
                 <div className="row about-content">
                 <div className="col-six tab-full">
                     <h3>Profile</h3>
-                    <p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p>
+                    <p>A young 21 year old graduate stepping in the professional domain. I am in transition phase from being a consumer to be a Developer.I have mastered in recognising the issues and problems time to provide the solutions.</p>
                     <ul className="info-list">
                     <li>
                         <strong>Fullname:</strong>
@@ -48,7 +48,7 @@ export default class About extends Component {
                 </div>
                 <div className="col-six tab-full">
                     <h3>Skills</h3>
-                    <p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p>
+                    <p>Diversifying My skillset so much and to almost every field. So whatever problems and requirements I have to deal I atleast be Knowing which Tool to use where, Even Developing the basic understanding in this learning phase of mine will prove wonders indeed when needed.</p>
                     <ul className="skill-bars">
                     <li>
                         <div className="progress percent90"><span>90%</span></div>

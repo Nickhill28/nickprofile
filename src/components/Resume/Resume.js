@@ -10,7 +10,7 @@ export default class Resume extends Component {
                     <h5>Resume</h5>
                     <h1>More of my credentials.</h1>
                     <p className="lead">I am a student inches away from a Bachelor degree. As I am about to finish my Bachelors I am eyeing for the professional role.<br/>
-                    Adding to my current prospectives, I am an Individual who likes to discover different Cultures,languages and ethnicities. Numbers and Dta-Art grabs my attention. While Mythbusting is my guilty pleasure.</p>
+                    Adding to my current prospectives, I am an Individual who likes to discover different Cultures,languages and ethnicities. Numbers and Data-Art grabs my attention. While Mythbusting is my guilty pleasure.</p>
                 </div>   		
                 </div> {/* /section-intro*/} 
                 <div className="row resume-timeline">
@@ -42,7 +42,7 @@ export default class Resume extends Component {
                         </div>
                         <div className="timeline-content">
                         <h4>Google Adsense</h4>
-                        <p>It was an immense feeling to crack the Google Adsense Analytics Certification. While some can claim the certificates, only a few can claim it with percentage Above 90%. I am in that few. Here I learned to master the cpncepts of SEO and Adsense Algorithm.</p>
+                        <p>It was an immense feeling to crack the Google Adsense Analytics Certification. While some can claim the certificates, only a few can claim it with percentage Above 90%. I am in that few. Here I learned to master the concepts of SEO and Adsense Algorithm.</p>
                         </div>
                     </div> {/* /timeline-block */}
                     <div className="timeline-block">
@@ -77,7 +77,7 @@ export default class Resume extends Component {
                         </div>
                         <div className="timeline-content">
                         <h4>Open Source</h4>
-                        <p>I decided while waiting fir the corporate society to hire me, I should grasp some knowledge about it to provide effective at the J-Job. So, I brainstormed to OpenSource Here I make my own projects. Watch developers on Twitch and Learn from it. Do Collaboration with various other peers and developers. Solve and generate issues. Doing all this I have keenly upscaled my knowledge of the field unknown to me.<br />
+                        <p>I decided while waiting for the corporate society to hire me, I should grasp some knowledge about it to provide effective at the J-Job. So, I brainstormed to OpenSource Here I make my own projects. Watch developers on Twitch and Learn from it. Do Collaboration with various other peers and developers. Solve and generate issues. Doing all this I have keenly upscaled my knowledge of the field unknown to me.<br />
                         <b>upskilled: </b>150%</p>
                         </div>
                     </div> {/* /timeline-block */}
@@ -105,7 +105,7 @@ export default class Resume extends Component {
                         </div>
                         <div className="timeline-content">
                         <h4>Junior College</h4>
-                        <p>Journey fo Junior college gave me the Transitions I needed to guide me to a more structural path than what I was following before. These changes were fast-paced,drastic and were making me more precise about my surrroundings. Though this phase led me to deviate a little from my Academics but it was worth as it shaped me instead to tackle difficulties and pressure with ease.<br/>
+                        <p>Journey of Junior college gave me the Transitions I needed to guide me to a more structural path than what I was following before. These changes were fast-paced,drastic and were making me more precise about my surrroundings. Though this phase led me to deviate a little from my Academics but it was worth as it shaped me instead to tackle difficulties and pressure with ease.<br/>
                         <b>Percentage:</b> 76%  </p>
                         </div>
                         <div className="timeline-content">
