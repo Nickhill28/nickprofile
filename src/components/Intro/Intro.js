@@ -10,11 +10,11 @@ export default class Intro extends Component {
             <div className="row">
                 <div className="col-twelve">
                 <h5>Hello, World.</h5>
-                <h1>I'm Nick Hill Gupta.</h1>
+                <h1>I'm Nick Hill G<a href="https://theuselessweb.site/">.</a></h1>
                 <p className="intro-position">
-                    <span>Developer</span>
-                    <span>Evangelist</span>
-                    <span>Numerophile</span>  
+                    <span><a href="https://miro.medium.com/max/875/1*T7xnr9bfEMsbzaiUJe2n_w.jpeg">Developer</a></span>
+                    <span><a href="https://4.bp.blogspot.com/-Dm1aVhDE2ZY/Xzu9x-aQWGI/AAAAAAAAR0E/VSAV4EK_we0-3VjmHTXAjJx1KAOFoznnwCLcBGAsYHQ/s1600/data-never-sleeps-8-infographic-2020.png">Evangelist</a></span>
+                    <span><a href="https://cdn.slidesharecdn.com/ss_thumbnails/whatisnumerologyebook-190904230242-thumbnail-4.jpg?cb=1567638703">Numerophile</a></span>  
                 </p>
                 <a className="button stroke smoothscroll" href="#about" title>Know Me</a>
                 </div>  
